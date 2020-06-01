@@ -1,6 +1,8 @@
 ###############################
 # Getting Cleaning data       #
-#  Course Project             #
+#   Course Project            #
+#   Yineng CHen               #
+#    2019-5-31                #
 ###############################
 
 library(tidyverse)
